@@ -81,7 +81,8 @@ for epoch in range(epochs):
 
 
 ### Predictions 
-![image](https://github.com/user-attachments/assets/2d90a0c0-771f-4981-a09e-4ddb9b8a50b9)
+![Screenshot 2025-04-27 192255](https://github.com/user-attachments/assets/2e7391f1-6725-4a3c-987e-36ce8278b659)
+
 
 
 ## Result
